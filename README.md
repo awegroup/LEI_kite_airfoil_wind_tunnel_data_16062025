@@ -1,8 +1,8 @@
 # ✏️ {Insert descriptive title}
 
-✏️ *{Provide a brief overview of the dataset, including its purpose, origin, and key contents. Mention what the data represent (e.g. measurements, simulations, processed results, etc.).}*
+✏️ *{Provide a concise overview of the dataset, outlining its purpose, origin, and key contents. Describe what the data represent, for example experimental measurements, numerical simulations, or post-processed results. Include relevant context such as the campaign, setup, or associated publication.}*
 
-A good example repo is: [Flightdata12052023](https://github.com/awegroup/Flightdata12052023).
+A good reference structure can be found in [Flightdata12052023](https://github.com/awegroup/Flightdata12052023).
 
 ---
 
@@ -15,31 +15,26 @@ You may share and adapt the material for **non-commercial purposes**, provided t
 
 ## Dataset Contents
 
-✏️ *{Briefly describe the folder structure, file naming conventions, units, and data format.}*
-
-Example:  
-/raw_data/ – original experimental measurements
-/processed/ – filtered or derived data
-/docs/ – documentation and metadata files
+✏️ *{Describe the structure and content of this dataset. Include folder descriptions, file naming conventions, units, formats, and any metadata provided. Indicate which files are primary data, which are processed, and which are documentation.}*
 
 ---
 
 ## References
 
-✏️ > van Lith, T., Poland, J. A. W., & Schmehl, R. (2026). Leading-edge inflatable airfoil aerodynamics. Journal of Physics: Conference Series. https://doi.org/{insert
- DOI}
- 
-✏️ > van Lith, T. (2025). Leading-edge inflatable airfoil aerodynamics. Master’s thesis, Delft University of Technology, Faculty of Aerospace Engineering. Supervisors: R. Schmehl and J. A. W. Poland. https://resolver.tudelft.nl/{insert DOI}
- 
+
+> van Lith, T., Poland, J. A. W., & Schmehl, R. (2026). *Leading-edge inflatable airfoil aerodynamics.* *Journal of Physics: Conference Series.* {✏️ nsert DOI}  
+
+> van Lith, T. (2025). *Leading-edge inflatable airfoil aerodynamics.* Master’s thesis, Delft University of Technology, Faculty of Aerospace Engineering. Supervisors: R. Schmehl and J. A. W. Poland. {✏️ insert DOI}
+
 ---
 
 ## Authors
 
-✏️ *{List all contributors with affiliations.}*
+Thijs van Lith¹  
+Jelle A. W. Poland¹  
+Roland Schmehl¹ ✉ (r.schmehl@tudelft.nl)  
 
-Example:  
-Roland Schmehl¹ (email: r.schmehl@tudelft.nl)  
-¹ Faculty of Aerospace Engineering, Delft University of Technology, Kluyverweg 1, 2629 HS Delft, The Netherlands
+¹ Faculty of Aerospace Engineering, Delft University of Technology, Kluyverweg 1, 2629 HS Delft, The Netherlands  
 
 ---
 
@@ -52,19 +47,19 @@ This dataset is distributed under the
 
 ## Acknowledgements
 
-✏️ *{Add funding acknowledgements, institutional support, or relevant project numbers.}*
+This project, *MERIDIONAL*, received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No [101084216](https://doi.org/10.3030/101084216).  
+The opinions expressed are those of the authors and do not necessarily reflect the views of the European Commission.  
+The European Commission is not responsible for any use that may be made of the information it contains.
 
-Example:  
-This project *MERIDIONAL* received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No [101084216](https://doi.org/10.3030/101084216).  
-The opinions expressed are those of the authors and do not necessarily reflect the views of the European Commission.
+---
 
-## WAIVER
+## Waiver
 
-Technische Universiteit Delft hereby disclaims all copyright interest in the package written by the Author(s). Prof.dr. H.G.C. (Henri) Werij, Dean of Aerospace Engineering.
+Technische Universiteit Delft hereby disclaims all copyright interest in this dataset written by the author(s).  
+**Prof.dr. H.G.C. (Henri) Werij**, Dean of Aerospace Engineering.
+
+---
 
 ## Copyright
 
-Copright(c) ✏️ *{insert year author_name}*
-
-Example:
-Copyright (c) 2025 Roland Schmehl
+Copyright (c) 2025 Thijs van Lith, Jelle A. W. Poland, and Roland Schmehl
